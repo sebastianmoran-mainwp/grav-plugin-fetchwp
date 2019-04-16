@@ -1,6 +1,6 @@
 # FetchWP Plugin for Grav
 
-`FetchWP` is a [Grav](http://github.com/getgrav/grav) Plugin and allows to fetch Wordpress posts by using the Wordpress REST Api.
+`FetchWP` is a [Grav](http://github.com/getgrav/grav) Plugin and allows to fetch Wordpress posts by using the Wordpress REST API.
 
 Inspired by [Grav Plugin Facebook](https://github.com/mikahanninen/grav-plugin-facebook) .
 
